@@ -1,0 +1,10 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+vosk-model*/
+modelo-vosk.zip
+*.gguf
+*.wav
+*.log
+.env
